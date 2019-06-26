@@ -5,7 +5,7 @@ Esse projeto tem como objetivo verificar se pull requests melhoram a análise es
 ## Links
 
 - [Slides](https://docs.google.com/presentation/d/1Cb9oj52_TM6M7F2efgLRFaT36FUVng_7iP7q7SnJMRY/edit?usp=sharing)
-- [Scripts](https://drive.google.com/open?id=1ioE7zIgMLKhoUPa7n0DLn1y4COhGEv7P)
+- [Scripts](https://github.com/igormatos/taes-report)
 
 ## Integrantes
 - Artur Montenegro - acmh
